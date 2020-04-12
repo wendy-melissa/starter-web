@@ -1,6 +1,6 @@
 ## Starter Web Project
 
-This is a simple webside project for showing how to use Github together.
+This is a simple webside project for showing how to use Github together. Adding a line for rebasing example. 
 
 ## Introduction
 
