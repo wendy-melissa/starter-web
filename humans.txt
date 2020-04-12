@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wendy Blotcky      wendy@git.training   @awesonewb
 
 # THANKS
 
